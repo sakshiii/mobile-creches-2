@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/style2.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  <title>Mobile Creches|Blog</title>
+</head>
+<body>
+  <!--image-->
+<div  style="margin-right: 0px; margin-left: 0px;">
+  <div class="card bg-dark text-white md-3">
+  <img src="images/blog.jpg" class="card-img" alt="...">
+  <div class="card-img-overlay ">
+    <h1 class="card-title "  style="margin-top:0px; font-size: 3rem; margin-left: 20px;">My Name Is <i>Today</i></h1>
+    
+  </div>
+</div>
+</div>
+<div class="card mb-3 container" style="max-width:600px; background-color:#ffff99; margin-top: 30px; padding: 0px;">
+  <div class="row no-gutters">
+    
+    <div class="col-md-3">
+      <img src="images/b2.webp" class="card-img mb-6 " alt="..." style="height: 300px !important; width: 360px !important; margin-left: 10px; margin-top: 25px;">
+    </div>
+    <div class="col-md-15">
+      <div class="card-body">
+        <h5 class="card-title">
+Celebrating with our children</h5>
+<p class="card-text"><small class="text-muted">January 17, 2019|MC Team,</small></p>
+        <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >“It is so exciting to draw on a big, blank wall … so different from drawing on a small sheet” – Amit, 12 years Brookfield G1 Creche, Gurgaon</p>
+        
+        <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >Every day is Children’s Day at Mobile Creches. But as we embarked on our 50th year journey, we wanted to do something special with the young ones– the heart and soul of the MCprogramme.</p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >The 50th year celebrations for children were planned, initially, for the week of November 14-20,starting on the Indian Children’s Day (Pt. Nehru’s birthday) and ending onthe International Children’s Day. However, it expanded to a month, to include art workshops, corporate volunteers, gifts for children, and an invitation tothe National School of Drama(NSD) in Delhi!</p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >The art workshops saw participation by 100 children,in six centres of Mobile Creches spread across Noida, Gurgaon and Delhi. This was done in partnership with Artreach India that connected us tothe talented artist,Moumita Ghosh. She steered the activities to help children create gorgeous wall murals, masks, puppetsand greeting cards,in joyful, vibrant colours[AA1] .
+
+ </p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >“The workshop was festive and a huge learning experience for the children and us. It was also a great break from the daily timetable;we had fun while teaching and caring for the children” – Rita Rawat, Centre In-charge, Brookfield G1 Creche, Gurgaon 
+
+ </p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >We also organized a Sports Day and a Movies’ Day for children in all our centres. Lots of fun and games through the morning – with something for everybody – ending with music and dance. Watching children’s films on Movies’ Day was as much fun for the adults as the children themselves!
+
+ </p>
+     <img src="images/cel2.webp" class="card-img mb-6 " alt="..." style="height: 300px !important; width: 360px !important; margin-left: 10px; margin-top: 25px;">
+      
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ><b>“Just watching the excitement on children’s faces filled me with happiness. In MC, we are being able to create a space for the little ones to express themselves, be it the medium of theatre or art and craft.” – Sonia Sharma, Senior Manager, Day Care Programme
+</b>
+ </p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >The icing on the 50th year cake was a special invitation from the NSD to ‘Jashn-e-Bachpan’, a theatre festival organized annually, to showcase the work of different groups working with children. Fifty children from MC participated and had the time of their lives.
+
+ </p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >“NSD was a totally different experience from the usual. I oved watching the children play with the clowns. Our staff, Balvinder and Meena, were thrilled too; they had never been to such a place before.” Mukesh Kumar, Programme Officer, Day Care Programme
+
+          </p>
+       
+       <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" >November 2018 was replete with celebratory moments for our children, lived through theatre, art, music and sports, in the company of their peers. The photographs speak louder than words:
+
+ </p>
+       
+        </div>
+        </div>
+  </div>
+</div>

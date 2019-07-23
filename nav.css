@@ -1,0 +1,18 @@
+
+.bg-dark{
+      background-color: #b00707 !important;
+    }
+    .dropdown:hover>.dropdown-menu{
+      display: block;
+    }
+    .nav-link{
+      
+      color: #fff !important;
+    }
+    .active{
+      background-color: #1a1a1a;
+    }
+    .dropdown-item{
+      background-color: #ddd;
+      border-style: dashed;
+    }

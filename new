@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/style2.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  <title>Mobile Creches|Blog</title>
+</head>
+<body>
+  <!--image-->
+<div  style="margin-right: 0px; margin-left: 0px;">
+  <div class="card bg-dark text-white md-3">
+  <img src="images/blog.jpg" class="card-img " alt="...">
+  <div class="card-img-overlay ">
+    <h1 class="card-title "  style="margin-top:0px; font-size: 3rem; margin-left: 20px; margin-bottom: 50px; ">My Name Is <i>Today</i></h1>
+    
+  </div>
+</div>
+</div>
+<!--card-->
+<div class="card mb-3 md-8 container hoverable" style="max-width:760px; margin-top: 30px; padding: 0px;   text-shadow: 0 0 8px #FF0000; ">
+  <div class="row no-gutters">
+    <div class="col-md-15">
+      <div class="card-body">
+        <h3 class="card-title" style="font-size: 2rem"></h3>
+        <p class="card-text"><small class="text-muted">January 16, 2019|MC Team,</small></p>
+        <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+
+              <img src="images/d2.jpg" class="card-img mb-6 " alt="..." style="height: 450px !important; width: 560px !important; margin-left:10px; margin-top: 25px; margin-bottom: 25px;">
+              <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+              <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+                            <img src="images/d3.webp" class="card-img mb-6 " alt="..." style="height: 450px !important; width: 560px !important; margin-left:10px; margin-top: 25px; margin-bottom: 25px;">
+                                          <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+
+              <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+
+              <p class="card-text small" style="background-color:#b00707; color: white; width:auto; padding:7px; background-color: black;" ></p>
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+<div>
+<a href="https://drive.google.com/drive/folders/1awYR_ccZ4FdNPQgdnNWzBCXyBMLYJITz?ogsrc=32" type="button"><h4 style="color: white;">For more photos click here </h4> </a>
+</div>
